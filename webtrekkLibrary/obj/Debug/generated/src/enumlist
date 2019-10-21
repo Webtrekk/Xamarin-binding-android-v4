@@ -1,0 +1,8 @@
+com.webtrekk.webtrekksdk.ProductParameterBuilder$ActionType:Com.Webtrekk.Webtrekksdk:ProductParameterBuilder.ActionType
+com.webtrekk.webtrekksdk.TrackingParameter$Parameter:Com.Webtrekk.Webtrekksdk:TrackingParameter.Parameter
+com.webtrekk.webtrekksdk.WebtrekkRecommendations$QueryRecommendationResult:Com.Webtrekk.Webtrekksdk:WebtrekkRecommendations.QueryRecommendationResult
+com.webtrekk.webtrekksdk.Configuration.TrackingConfiguration$AutoTrackedParameters:Com.Webtrekk.Webtrekksdk.Configuration:TrackingConfiguration.AutoTrackedParameters
+com.webtrekk.webtrekksdk.Configuration.TrackingConfigurationXmlParser$ParType:Com.Webtrekk.Webtrekksdk.Configuration:TrackingConfigurationXmlParser.ParType
+com.webtrekk.webtrekksdk.Modules.ExceptionHandler$Type:Com.Webtrekk.Webtrekksdk.Modules:ExceptionHandler.Type
+com.webtrekk.webtrekksdk.Request.TrackingRequest$RequestType:Com.Webtrekk.Webtrekksdk.Request:TrackingRequest.RequestType
+com.webtrekk.webtrekksdk.Utils.ActivityTrackingStatus$STATUS:Com.Webtrekk.Webtrekksdk.Utils:ActivityTrackingStatus.STATUS

@@ -1,5 +1,4 @@
-﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{8D08053E-7044-4519-843E-34AA4323BC4E}|Default">
-  <MonoDevelop.Ide.ItemProperties.WebtrekkTestApk PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{58448579-0A40-4C3E-AF46-161B0D87FCE3}|Default">
   <MonoDevelop.Ide.ItemProperties.webtrekkLibrary PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.Workbench>
     <Files>
@@ -7,20 +6,26 @@
       <File FileName="webtrekkLibrary/Transforms/EnumFields.xml" />
       <File FileName="webtrekkLibrary/Transforms/EnumMethods.xml" />
       <File FileName="webtrekkLibrary/Jars/WebtrekkSDK-4.12.01.aar" />
-      <File FileName="WebtrekkTestApk/MainActivity.cs" Line="32" Column="10" />
       <File FileName="WebtrekkTestApk/MyApp.cs" />
       <File FileName="webtrekkLibrary/obj/Debug/generated/src/Com.Webtrekk.Webtrekksdk.WebtrekkApplication.cs" />
       <File FileName="WebtrekkTestApk/Resources/Resource.designer.cs" />
+      <File FileName=".vs/webtrekkLibrary/xs/sqlite3/storage.ide" />
+      <File FileName="webtrekkLibrary/obj/webtrekkLibrary.csproj.nuget.g.targets" Line="6" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="webtrekkLibrary" selected="True" />
+          <Node name="webtrekkLibrary" expanded="True">
+            <Node name="WebtrekkTestApk" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>WebtrekkTestApk/WebtrekkTestApk.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

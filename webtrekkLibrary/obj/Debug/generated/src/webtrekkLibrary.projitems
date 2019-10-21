@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25;ANDROID_26;ANDROID_27;ANDROID_28</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.BuildConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Configuration.ActivityConfiguration.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Configuration.TrackingConfiguration.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Configuration.TrackingConfigurationXmlParser.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Modules.AppinstallGoal.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Modules.Campaign.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Modules.ExceptionHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Modules.ProductListOrderSaver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.ProductListTracker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.ProductParameterBuilder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.ReferrerReceiver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Request.RequestFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Request.RequestProcessor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Request.RequestUrlStore.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Request.TrackingRequest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.TrackingParameter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Utils.ActivityListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Utils.ActivityTrackingStatus.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Utils.AdClearIdUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Utils.HelperFunctions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Utils.IAsyncTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Utils.PinConnectionValidator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Utils.Tls12SocketFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Utils.WebtrekkLogging.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.Webtrekk.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.WebtrekkApplication.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.WebtrekkRecommendations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Webtrekk.Webtrekksdk.WebtrekkUserParameters.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>

@@ -1,0 +1,5 @@
+/Users/aleksandar.marinkovi/Projects/webtrekkLibrary/webtrekkLibrary/bin/Debug/webtrekkLibrary.dll
+/Users/aleksandar.marinkovi/Projects/webtrekkLibrary/webtrekkLibrary/bin/Debug/webtrekkLibrary.pdb
+/Users/aleksandar.marinkovi/Projects/webtrekkLibrary/webtrekkLibrary/obj/Debug/webtrekkLibrary.csprojAssemblyReference.cache
+/Users/aleksandar.marinkovi/Projects/webtrekkLibrary/webtrekkLibrary/obj/Debug/webtrekkLibrary.dll
+/Users/aleksandar.marinkovi/Projects/webtrekkLibrary/webtrekkLibrary/obj/Debug/webtrekkLibrary.pdb
